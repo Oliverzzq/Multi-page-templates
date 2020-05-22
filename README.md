@@ -5,7 +5,7 @@ webpack 多页模板
 npm i | cnpm i
 
 #启动
-npm run dev
+npm run v
 
 #打包
 npm run build
